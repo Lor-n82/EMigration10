@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233013282173",
+    "firebase_url": "https://emigration-e5f01.firebaseio.com",
+    "project_id": "emigration-e5f01",
+    "storage_bucket": "emigration-e5f01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233013282173:android:82f5fbe1b34e1467",
+        "android_client_info": {
+          "package_name": "com.example.emigration10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233013282173-638fimgtl3e1t6mj09ohhd8hkh535768.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWpo-m2FSBwrpc0TePa6HtpQkvGN7R_a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233013282173-638fimgtl3e1t6mj09ohhd8hkh535768.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

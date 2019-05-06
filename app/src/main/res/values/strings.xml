@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EMigration10</string>
+    <string name="PantallaUsuarioTitulo">Datos de Usuario</string>
+    <string name="DatosEquipos">Datos de los Equipos</string>
+</resources>
