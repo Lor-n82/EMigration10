@@ -20,9 +20,9 @@ public class MainActivity extends AppCompatActivity {
                 .withBackgroundResource(android.R.color.holo_red_light)
                 .withHeaderText("")
                 .withFooterText("Copyright 2019")
-                .withBeforeLogoText("Entelgy")
+                .withBeforeLogoText("")
                 .withLogo(R.drawable.entelgy)
-                .withAfterLogoText("Some more details")
+                .withAfterLogoText("Accelerating the change. Fast")
                 .create();
 
         setContentView(easySplashScreenView);

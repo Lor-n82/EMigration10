@@ -7,7 +7,7 @@
     tools:context=".Usuario">
 
     <EditText
-        android:id="@+id/editText4"
+        android:id="@+id/editTextEquipoNuevo"
         android:layout_width="120dp"
         android:layout_height="40dp"
         android:layout_marginStart="8dp"
@@ -50,7 +50,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:text="TextView"
+        android:text="@string/txtNombreUsuario"
         app:layout_constraintBottom_toTopOf="@+id/guideline2"
         app:layout_constraintEnd_toStartOf="@+id/guideline3"
         app:layout_constraintStart_toStartOf="parent"
@@ -82,14 +82,14 @@
         app:layout_constraintTop_toTopOf="@+id/guideline5" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/textViewId"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:text="TextView"
+        android:text="@string/txtIdUsuario"
         app:layout_constraintBottom_toTopOf="@+id/guideline4"
         app:layout_constraintEnd_toStartOf="@+id/guideline3"
         app:layout_constraintStart_toStartOf="parent"
@@ -143,28 +143,28 @@
         app:layout_constraintGuide_begin="500dp" />
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/textViewEquipoAntiguo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:text="TextView"
+        android:text="@string/txtEuipoAntiguo"
         app:layout_constraintBottom_toTopOf="@+id/guideline10"
         app:layout_constraintEnd_toStartOf="@+id/guideline3"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/guideline9" />
 
     <TextView
-        android:id="@+id/textView6"
+        android:id="@+id/textViewEquipoNuevo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:text="TextView"
+        android:text="@string/txtEquipoNuevo"
         app:layout_constraintBottom_toTopOf="@+id/guideline11"
         app:layout_constraintEnd_toStartOf="@+id/guideline3"
         app:layout_constraintStart_toStartOf="parent"
@@ -201,7 +201,7 @@
         app:layout_constraintTop_toTopOf="@+id/guideline2" />
 
     <EditText
-        android:id="@+id/editText3"
+        android:id="@+id/editTextEquipoAntiguo"
         android:layout_width="120dp"
         android:layout_height="40dp"
         android:layout_marginStart="8dp"
